@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
 <h3 align="center">Passionate about Machine Learning and Robotics</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning,Robotics**
 
-- 💬 Ask me about **Python, Robotics**
+- 💬 Ask me about **Python,C++,Algorithm,Data structure, Robotics,SLAM,Computer Vision**
 
 - 📫 How to reach me **niteshg7562@gmail.com**
 
