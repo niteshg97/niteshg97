@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
-[![Email](https://img.shields.io/badge/Email-niteshg7562%40gmail.com-red)](mailto:niteshg7562@gmail.com)
+[![Email](https://img.shields.io/badge/Email-niteshg7562%40gmail.com-red)](mailto:niteshk.ug23.ee@nitp.ac.in)
 
 ---
 
