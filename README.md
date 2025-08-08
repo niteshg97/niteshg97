@@ -1,18 +1,74 @@
-# readme
-<h1 align="center">Hi 👋, I'm Nitesh Kumar</h1>
-<h3 align="center">Passionate about Machine Learning and Robotics</h3>
+# 👋 Hi — I’m Nitesh Kumar
+### Electrical Engineering Student & Robotics Researcher  
+**Passionate about Machine Learning, Computer Vision, and Autonomous Systems**
 
-- 🌱 I’m currently learning **Machine Learning,Robotics**
+[![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
+[![Email](https://img.shields.io/badge/Email-niteshg7562%40gmail.com-red)](mailto:niteshg7562@gmail.com)
 
-- 💬 Ask me about **Python,C++,Algorithm,Data structure, Robotics,SLAM,Computer Vision**
+---
 
-- 📫 How to reach me **niteshg7562@gmail.com**
+## 🔎 Professional Summary
+Electrical Engineering undergraduate (NIT Patna) with **2+ years** of practical experience in robotics, embedded systems, computer vision, and detector design. Demonstrated ability to design hardware-integrated autonomy systems, implement vision and SLAM pipelines on embedded GPUs, and lead cross-disciplinary teams from prototype to field testing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## ✨ Highlights & Achievements
+- **Qualified** for ISRO IRoC-U 2025 with the **Autonomous Navigation Aerial Vehicle (ANAV)** project.  
+- **2nd Prize**, AgriTech category — NIT Patna Tech Fest (Agribot project).  
+- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic rays and a 2.01 GeV electron beam.  
+- Internship at **Technology Innovation Hub (IIT Jodhpur)** — implemented Jetson-based YOLOv8 object-tracking, PX4/MAVROS integration, and WebXR teleoperation.  
+- Co-authored a CERN Beamline for Schools proposal and performed experimental reliability analysis on radiation effects.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niteshg97&show_icons=true&locale=en&layout=compact" alt="niteshg97" /></p>
+---
+
+## 🛠 Technical Skills 
+**Programming & Tools**
+- Python, C++, Java, MATLAB, JavaScript, C  
+- Docker, Git, HDF5
+
+**Robotics & Perception**
+- ROS 2 (Humble), Gazebo, PX4, MAVROS, MAVLink  
+- OpenCV, YOLOv8, SLAM (EKF / particle filter), sensor fusion
+
+**Embedded & Platforms**
+- NVIDIA Jetson (Xavier NX), Raspberry Pi, Arduino, ESP32  
+- Microcontrollers, motor drivers, SiPM readout
+
+**Data & Research**
+- NumPy, SciPy, Pandas, Matplotlib, Jupyter  
+- Experiment design, calibration, LUT-based reconstruction
+
+---
+
+## 💼 Experience 
+**Technology Innovation Hub (TiH), Drishti Foundation — IIT Jodhpur**  
+*Summer Intern (May 2025 – Jul 2025)*  
+- Implemented UAV leader-follower formation using ArUco detection; improved coordination accuracy by ~30%.  
+- Deployed YOLOv8 and PX4 pipelines on Jetson (C++ / Python / Docker).  
+- Built WebXR teleoperation for a Kinova Gen3 manipulator (WebSockets, WebRTC).
+
+**National Institute of Technology Patna**  
+*Robotics Intern (Jan 2025 – Present)*  
+- Research on vision and control: SLAM/EKF sensor fusion, real-time detection, and automated data collection pipelines for RL.
+
+**Robotics Club, NIT Patna**  
+*Project Team Lead (Nov 2023 – Present)*  
+- Led 8-member team; agile development of field-ready prototypes; mentoring on ROS2, OpenCV, and embedded systems.
+
+---
+
+
+
+---
+
+## 📊 How I work / Development Practices
+- **Modular code** (separate perception, control, and communication modules).  
+- **Dockerized** CI-friendly development for reproducible Jetson deployments.  
+- **Test-first** approach: validate in SITL/Gazebo before field tests.  
+- **Calibration-first**: build LUTs and baseline corrections for sensor systems (SiPM / camera).  
+- Use of Git, code reviews, and unit tests where applicable.
+
+---
+
+
