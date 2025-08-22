@@ -4,20 +4,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
 [![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=for-the-badge&logo=gmail)](mailto:niteshk.ug23.ee@nitp.ac.in)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/niteshkumarnitp/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/niteshkumarnitp/)
 
 ---
 
 ## 🔎 Professional Summary
-Electrical Engineering undergraduate at NIT Patna with **2+ years** of hands-on experience in robotics, embedded systems, computer vision, and detector design. Experienced in developing hardware-integrated autonomy systems, deploying perception and SLAM pipelines on embedded GPUs (Jetson), and delivering field-ready UAV prototypes and teleoperation systems. :contentReference[oaicite:1]{index=1}
+Electrical Engineering undergraduate at NIT Patna with **2+ years** of hands-on experience in robotics, embedded systems, computer vision, and detector design. Experienced in developing hardware-integrated autonomy systems, deploying perception and SLAM pipelines on embedded GPUs (Jetson), and delivering field-ready UAV prototypes and teleoperation systems.
 
 ---
 
 ## ✨ Selected Highlights
-- **ISRO IRoC-U 2025 — Qualified** with the *Autonomous Navigation Aerial Vehicle (ANAV)* project. :contentReference[oaicite:2]{index=2}  
+- **ISRO IRoC-U 2025 — Qualified** with the *Autonomous Navigation Aerial Vehicle (ANAV)* project.  
 - **2nd Prize**, AgriTech category — NIT Patna Tech Fest (Agribot project).  
-- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic-ray data and 2.01 GeV beam tests. :contentReference[oaicite:3]{index=3}  
-- Internship at **Technology Innovation Hub, IIT Jodhpur** — deployed YOLOv8 & PX4 pipelines on Jetson; built WebXR teleoperation for Kinova Gen3. :contentReference[oaicite:4]{index=4}
+- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic-ray data and 2.01 GeV beam tests.  
+- Internship at **Technology Innovation Hub, IIT Jodhpur** — deployed YOLOv8 & PX4 pipelines on Jetson; built WebXR teleoperation for Kinova Gen3.
 
 ---
 
@@ -30,17 +30,17 @@ Electrical Engineering undergraduate at NIT Patna with **2+ years** of hands-on 
 ---
 
 ## 💼 Experience (concise)
-**Technology Innovation Hub (TiH), Drishti Foundation — IIT Jodhpur**  
-*Summer Intern (May 2025 – Jul 2025)*  
+### Technology Innovation Hub (TiH), Drishti Foundation — IIT Jodhpur  
+**Summer Intern (May 2025 – Jul 2025)**  
 - Engineered leader–follower UAV formation using ArUco detection and improved coordination accuracy by ~30%.  
 - Implemented PX4/MAVROS and YOLOv8 pipelines on Jetson; dockerized deployments for reproducibility.  
-- Developed a WebXR teleoperation interface for a Kinova Gen3 manipulator. :contentReference[oaicite:5]{index=5}
+- Developed a WebXR teleoperation interface for a Kinova Gen3 manipulator.
 
-**National Institute of Technology Patna**  
-*Robotics Intern (Jan 2025 – Present)* — real-time detection, SLAM/EKF sensor-fusion, automated HDF5 data pipelines. :contentReference[oaicite:6]{index=6}
+### National Institute of Technology Patna  
+**Robotics Intern (Jan 2025 – Present)** — real-time detection, SLAM/EKF sensor-fusion, automated HDF5 data pipelines.
 
-**Robotics Club, NIT Patna — Project Team Lead (Nov 2023 – Present)**  
-Led an 8-member team building field-ready prototypes; mentored on ROS2 and embedded systems. :contentReference[oaicite:7]{index=7}
+### Robotics Club, NIT Patna — Project Team Lead (Nov 2023 – Present)  
+Led an 8-member team building field-ready prototypes; mentored on ROS2 and embedded systems.
 
 ---
 
@@ -48,7 +48,7 @@ Led an 8-member team building field-ready prototypes; mentored on ROS2 and embed
 - **Autonomous Navigation Aerial Vehicle (ANAV)** — ISRO IRoC-U 2025 (qualified).  
 - **Agribot for Agriculture Automation** — autonomous soil sensing & seed dispensing (2nd Prize).  
 - **Low-cost 2D Position-Sensitive Detector for Muography** — design, calibration, and beam validation.  
-(Repository links available on my GitHub profile.) :contentReference[oaicite:8]{index=8}
+(Repository links available on my GitHub profile.)
 
 ---
 
@@ -56,8 +56,7 @@ Led an 8-member team building field-ready prototypes; mentored on ROS2 and embed
 - GitHub: https://github.com/niteshg97  
 - LinkedIn: https://www.linkedin.com/in/nitesh-kumar-68a698275  
 - LeetCode: https://leetcode.com/u/niteshkumarnitp/  
-- Email: niteshk.ug23.ee@nitp.ac.in  
-- Portfolio: https://niteshkumar.butternut.ai
+- Email: niteshk.ug23.ee@nitp.ac.in
 
 ---
 
