@@ -1,74 +1,69 @@
 # 👋 Hi — I’m Nitesh Kumar
-### Electrical Engineering Student & Robotics Researcher  
-**Passionate about Machine Learning, Computer Vision, and Autonomous Systems**
+### Electrical Engineering Student • Robotics Researcher • Autonomous Systems Enthusiast
 
 [![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
-[![Email](https://img.shields.io/badge/Email-niteshg7562%40gmail.com-red)](mailto:niteshk.ug23.ee@nitp.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
+[![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=for-the-badge&logo=gmail)](mailto:niteshk.ug23.ee@nitp.ac.in)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/niteshkumarnitp/)
 
 ---
 
 ## 🔎 Professional Summary
-Electrical Engineering undergraduate (NIT Patna) with **2+ years** of practical experience in robotics, embedded systems, computer vision, and detector design. Demonstrated ability to design hardware-integrated autonomy systems, implement vision and SLAM pipelines on embedded GPUs, and lead cross-disciplinary teams from prototype to field testing.
+Electrical Engineering undergraduate at NIT Patna with **2+ years** of hands-on experience in robotics, embedded systems, computer vision, and detector design. Experienced in developing hardware-integrated autonomy systems, deploying perception and SLAM pipelines on embedded GPUs (Jetson), and delivering field-ready UAV prototypes and teleoperation systems. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## ✨ Highlights & Achievements
-- **Qualified** for ISRO IRoC-U 2025 with the **Autonomous Navigation Aerial Vehicle (ANAV)** project.  
+## ✨ Selected Highlights
+- **ISRO IRoC-U 2025 — Qualified** with the *Autonomous Navigation Aerial Vehicle (ANAV)* project. :contentReference[oaicite:2]{index=2}  
 - **2nd Prize**, AgriTech category — NIT Patna Tech Fest (Agribot project).  
-- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic rays and a 2.01 GeV electron beam.  
-- Internship at **Technology Innovation Hub (IIT Jodhpur)** — implemented Jetson-based YOLOv8 object-tracking, PX4/MAVROS integration, and WebXR teleoperation.  
-- Co-authored a CERN Beamline for Schools proposal and performed experimental reliability analysis on radiation effects.
+- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic-ray data and 2.01 GeV beam tests. :contentReference[oaicite:3]{index=3}  
+- Internship at **Technology Innovation Hub, IIT Jodhpur** — deployed YOLOv8 & PX4 pipelines on Jetson; built WebXR teleoperation for Kinova Gen3. :contentReference[oaicite:4]{index=4}
 
 ---
 
-## 🛠 Technical Skills 
-**Programming & Tools**
-- Python, C++, Java, MATLAB, JavaScript, C  
-- Docker, Git, HDF5
-
-**Robotics & Perception**
-- ROS 2 (Humble), Gazebo, PX4, MAVROS, MAVLink  
-- OpenCV, YOLOv8, SLAM (EKF / particle filter), sensor fusion
-
-**Embedded & Platforms**
-- NVIDIA Jetson (Xavier NX), Raspberry Pi, Arduino, ESP32  
-- Microcontrollers, motor drivers, SiPM readout
-
-**Data & Research**
-- NumPy, SciPy, Pandas, Matplotlib, Jupyter  
-- Experiment design, calibration, LUT-based reconstruction
+## 🛠 Technical Skills
+**Languages & Tools:** Python · C++ · MATLAB · Java · JavaScript · Docker · Git · HDF5  
+**Robotics & Perception:** ROS 2 (Humble) · Gazebo · PX4 · MAVROS · OpenCV · YOLOv8 · SLAM / EKF  
+**Embedded & Platforms:** NVIDIA Jetson (Xavier NX) · Raspberry Pi · Arduino · ESP32  
+**Data & Research:** NumPy · SciPy · Pandas · Matplotlib · Jupyter · experiment design & calibration
 
 ---
 
-## 💼 Experience 
+## 💼 Experience (concise)
 **Technology Innovation Hub (TiH), Drishti Foundation — IIT Jodhpur**  
 *Summer Intern (May 2025 – Jul 2025)*  
-- Implemented UAV leader-follower formation using ArUco detection; improved coordination accuracy by ~30%.  
-- Deployed YOLOv8 and PX4 pipelines on Jetson (C++ / Python / Docker).  
-- Built WebXR teleoperation for a Kinova Gen3 manipulator (WebSockets, WebRTC).
+- Engineered leader–follower UAV formation using ArUco detection and improved coordination accuracy by ~30%.  
+- Implemented PX4/MAVROS and YOLOv8 pipelines on Jetson; dockerized deployments for reproducibility.  
+- Developed a WebXR teleoperation interface for a Kinova Gen3 manipulator. :contentReference[oaicite:5]{index=5}
 
 **National Institute of Technology Patna**  
-*Robotics Intern (Jan 2025 – Present)*  
-- Research on vision and control: SLAM/EKF sensor fusion, real-time detection, and automated data collection pipelines for RL.
+*Robotics Intern (Jan 2025 – Present)* — real-time detection, SLAM/EKF sensor-fusion, automated HDF5 data pipelines. :contentReference[oaicite:6]{index=6}
 
-**Robotics Club, NIT Patna**  
-*Project Team Lead (Nov 2023 – Present)*  
-- Led 8-member team; agile development of field-ready prototypes; mentoring on ROS2, OpenCV, and embedded systems.
+**Robotics Club, NIT Patna — Project Team Lead (Nov 2023 – Present)**  
+Led an 8-member team building field-ready prototypes; mentored on ROS2 and embedded systems. :contentReference[oaicite:7]{index=7}
 
 ---
 
+## 🚀 Selected Projects
+- **Autonomous Navigation Aerial Vehicle (ANAV)** — ISRO IRoC-U 2025 (qualified).  
+- **Agribot for Agriculture Automation** — autonomous soil sensing & seed dispensing (2nd Prize).  
+- **Low-cost 2D Position-Sensitive Detector for Muography** — design, calibration, and beam validation.  
+(Repository links available on my GitHub profile.) :contentReference[oaicite:8]{index=8}
 
+---
+
+## 🔗 Links & Contact
+- GitHub: https://github.com/niteshg97  
+- LinkedIn: https://www.linkedin.com/in/nitesh-kumar-68a698275  
+- LeetCode: https://leetcode.com/u/niteshkumarnitp/  
+- Email: niteshk.ug23.ee@nitp.ac.in  
+- Portfolio: https://niteshkumar.butternut.ai
 
 ---
 
-## 📊 How I work / Development Practices
-- **Modular code** (separate perception, control, and communication modules).  
-- **Dockerized** CI-friendly development for reproducible Jetson deployments.  
-- **Test-first** approach: validate in SITL/Gazebo before field tests.  
-- **Calibration-first**: build LUTs and baseline corrections for sensor systems (SiPM / camera).  
-- Use of Git, code reviews, and unit tests where applicable.
+## 📬 Open to
+Internships, research collaborations, and roles in robotics, perception, and embedded autonomy.  
+If you'd like to discuss a role or collaboration, feel free to reach out via LinkedIn or email.
 
----
 
 
