@@ -50,16 +50,6 @@ Led an 8-member team building field-ready prototypes; mentored on ROS2 and embed
 - **Low-cost 2D Position-Sensitive Detector for Muography** — design, calibration, and beam validation.  
 (Repository links available on my GitHub profile.)
 
----
-
-## 🔗 Links & Contact
-- GitHub: https://github.com/niteshg97  
-- LinkedIn: https://www.linkedin.com/in/nitesh-kumar-68a698275  
-- LeetCode: https://leetcode.com/u/niteshkumarnitp/  
-- Email: niteshk.ug23.ee@nitp.ac.in
-
----
-
 ## 🌟 Recent Highlights  
 
 ### 📌 Advances in Robotics (AIR 2025) – Participant  
@@ -75,7 +65,7 @@ I had the opportunity to present and participate in **AIR 2025**, showcasing my 
 
 
 #### 🎥  
-![AIR 2025 UAV Demo](images/air2025_uav.gif) 
+![AIR 2025](videos/air2025_uav.gif) 
 
 https://github.com/user-attachments/assets/8de44d49-afa0-44d4-8682-418cb668e4c6
 
