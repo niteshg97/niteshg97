@@ -60,6 +60,30 @@ Led an 8-member team building field-ready prototypes; mentored on ROS2 and embed
 
 ---
 
+## 🌟 Recent Highlights  
+
+### 📌 Advances in Robotics (AIR 2025) – Participant  
+I had the opportunity to present and participate in **AIR 2025**, showcasing my work.  
+
+#### 📸 Glimpses from AIR 2025  
+![AIR 2025 Day -1 ](images/air2025.jpg)
+![IMG_20250703_232433_317](https://github.com/user-attachments/assets/9cd17117-a8b9-4fc2-b588-3520cd1eaf31)
+
+
+![AIR 2025 Day -2(Presenting our work)](images/air2025_panel.jpg)  
+![IMG-20250705-WA0006(2)](https://github.com/user-attachments/assets/b95b13a5-8942-4290-a674-1d97268aba62)
+
+
+#### 🎥  
+![AIR 2025 UAV Demo](images/air2025_uav.gif) 
+
+https://github.com/user-attachments/assets/8de44d49-afa0-44d4-8682-418cb668e4c6
+
+
+
+---
+
+
 ## 📬 Open to
 Internships, research collaborations, and roles in robotics, perception, and embedded autonomy.  
 If you'd like to discuss a role or collaboration, feel free to reach out via LinkedIn or email.
