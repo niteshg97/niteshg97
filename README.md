@@ -52,7 +52,7 @@ Led an 8-member team building field-ready prototypes; mentored on ROS2 and embed
 
 ## 🌟 Recent Highlights  
 
-### 📌 Advances in Robotics (AIR 2025) – Participant  
+### 📌 Advances in Robotics (AIR 2025),7th International Conference of The Robotics Society – Participant  
 I had the opportunity to present and participate in **AIR 2025**, showcasing my work.  
 
 #### 📸 Glimpses from AIR 2025  
