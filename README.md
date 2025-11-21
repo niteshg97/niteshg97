@@ -1,5 +1,20 @@
-# 👋 Hi — I’m Nitesh Kumar
-### Electrical Engineering Student • Robotics Researcher • Autonomous Systems Enthusiast
+#!/usr/bin/env bash
+# create_readme.sh
+# Single-file bash script to generate a polished README.md for Nitesh Kumar
+# It embeds a local path to the uploaded resume at /mnt/data/Nitesh_Resume.pdf
+#
+# Usage:
+#   ./create_readme.sh
+# This will create (or overwrite) README.md in the current directory.
+
+set -euo pipefail
+
+OUT_FILE="README.md"
+RESUME_PATH="/mnt/data/Nitesh_Resume.pdf"
+
+cat > "$OUT_FILE" <<'README'
+# 👋 Hey there — I’m **Nitesh Kumar**
+### Robotics Researcher • ML & Edge-AI Engineer • Autonomous Systems Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
@@ -8,75 +23,145 @@
 
 ---
 
-## 🔎 Professional Summary
-Electrical Engineering undergraduate at NIT Patna with **2+ years** of hands-on experience in robotics, embedded systems, computer vision, and detector design. Experienced in developing hardware-integrated autonomy systems, deploying perception and SLAM pipelines on embedded GPUs (Jetson), and delivering field-ready UAV prototypes and teleoperation systems.
+## 🚀 About Me
+I’m an **Electrical Engineering (Dual Degree)** student at **NIT Patna**, building intelligent machines that **see, decide, and act**.
+
+My work lives at the intersection of:
+
+- **Robotics & Perception** — UAV autonomy, SLAM/EKF, multi-robot coordination  
+- **Deep Learning & Vision** — Transformers, YOLO, medical imaging, scientific ML  
+- **Embedded AI** — Jetson, FPGA/HLS (hls4ml), real-time optimized inference  
+- **Edge Autonomy** — hardware-aware models, quantization & pruning, GPU pipelines  
+
+I enjoy converting research ideas into **field-ready robotic systems** and **deployment-grade ML pipelines**, often under tight latency, power, and bandwidth constraints.
 
 ---
 
-## ✨ Selected Highlights
-- **ISRO IRoC-U 2025 — Qualified** with the *Autonomous Navigation Aerial Vehicle (ANAV)* project.  
-- **2nd Prize**, AgriTech category — NIT Patna Tech Fest (Agribot project).  
-- Designed a **low-cost 2D position-sensitive muography detector** (5×5 CsI + SiPM) and validated it with cosmic-ray data and 2.01 GeV beam tests.  
-- Internship at **Technology Innovation Hub, IIT Jodhpur** — deployed YOLOv8 & PX4 pipelines on Jetson; built WebXR teleoperation for Kinova Gen3.
+## 🔎 Professional Snapshot
+> *“I build autonomy stacks that run not just in simulation, but in the real world.”*
+
+- **2+ years** working across robotics, AI, and embedded systems  
+- Experience with **PX4, ROS 2, GPU pipelines, SLAM, YOLOv8**, and real-time sensor fusion  
+- Designed **quantized + pruned neural networks** for **FPGA** using **hls4ml**  
+- Academic/research exposure to **medical imaging**, **particle physics ML**, and **beamline analysis**  
+- Achieved **top 3% JEE rank**, 250+ LeetCode solves, and multiple research/tech awards  
 
 ---
 
-## 🛠 Technical Skills
-**Languages & Tools:** Python · C++ · MATLAB · Java · JavaScript · Docker · Git · HDF5  
-**Robotics & Perception:** ROS 2 (Humble) · Gazebo · PX4 · MAVROS · OpenCV · YOLOv8 · SLAM / EKF  
-**Embedded & Platforms:** NVIDIA Jetson (Xavier NX) · Raspberry Pi · Arduino · ESP32  
-**Data & Research:** NumPy · SciPy · Pandas · Matplotlib · Jupyter · experiment design & calibration
+## 🛠 Technical Ecosystem
+
+**Languages**  
+Python · C++ · MATLAB · Java · C
+
+**Robotics & Perception**  
+ROS 2 (Humble) · PX4 · MAVROS · Gazebo · OpenCV · YOLOv8 · SLAM/EKF
+
+**Machine Learning & DL**  
+PyTorch · TensorFlow · scikit-learn · hls4ml · RAPIDS · CUDA · Quantization & Pruning
+
+**Embedded & Hardware**  
+NVIDIA Jetson (Xavier NX) · Raspberry Pi · Microcontrollers · FPGA (HLS)
+
+**Tools & Frameworks**  
+Docker · Git · HDF5 · TensorBoard · Node.js · WebXR
+
+**Domains**  
+Edge AI · Robotics · Medical Imaging · ML in Physics · Scientific Computing
 
 ---
 
-## 💼 Experience (concise)
-### Technology Innovation Hub (TiH), Drishti Foundation — IIT Jodhpur  
-**Summer Intern (May 2025 – Jul 2025)**  
-- Engineered leader–follower UAV formation using ArUco detection and improved coordination accuracy by ~30%.  
-- Implemented PX4/MAVROS and YOLOv8 pipelines on Jetson; dockerized deployments for reproducibility.  
-- Developed a WebXR teleoperation interface for a Kinova Gen3 manipulator.
+## 💼 Experience
 
-### National Institute of Technology Patna  
-**Robotics Intern (Jan 2025 – Present)** — real-time detection, SLAM/EKF sensor-fusion, automated HDF5 data pipelines.
+### 🔹 Technology Innovation Hub (TiH), IIT Jodhpur — *Summer Intern (May–Jul 2025)*
+- Engineered **leader–follower UAV formation** using ArUco markers; improved coordination accuracy by *~30%*.  
+- Built **WebXR teleoperation** for Kinova Gen3 using WebRTC, Node.js & ARCore.  
+- Deployed YOLOv8 + PX4 autonomy stack on **NVIDIA Jetson** with Dockerized reproducibility.  
+- Presented at **AIR 2025**, 7th International Robotics Society Conference.
 
-### Robotics Club, NIT Patna — Project Team Lead (Nov 2023 – Present)  
-Led an 8-member team building field-ready prototypes; mentored on ROS2 and embedded systems.
+### 🔹 Machine Learning Researcher — NIT Patna (Jul 2025 – Present)
+- Researching **quantized + pruned neural networks** for FPGA/Jetson using **hls4ml**.  
+- Developed **Faster-RCNN, ViT, and CNN pipelines** for medical imaging & scientific datasets.  
+- Integrated GPU-accelerated workflows for high-dimensional physics data.
+
+### 🔹 Student Coordinator — Tinkering Lab, NIT Patna
+- Leading ML + Robotics teams on UAV autonomy, CV, and embedded AI.  
+- Conduct workshops on deep learning, ROS 2, sensor fusion & control systems.
 
 ---
 
 ## 🚀 Selected Projects
-- **Autonomous Navigation Aerial Vehicle (ANAV)** — ISRO IRoC-U 2025 (qualified).  
-- **Agribot for Agriculture Automation** — autonomous soil sensing & seed dispensing (2nd Prize).  
-- **Low-cost 2D Position-Sensitive Detector for Muography** — design, calibration, and beam validation.  
-(Repository links available on my GitHub profile.)
 
-## 🌟 Recent Highlights  
+### 🛩 Autonomous Navigation Aerial Vehicle (ANAV) — ISRO IRoC-U 2025 (Qualified)
+- Full **ROS2 + PX4** autonomy stack on Jetson Xavier NX  
+- EKF for **LiDAR + IMU** fusion  
+- Real-time **terrain understanding** via YOLOv8 + IMX290 camera
 
-### 📌 Advances in Robotics (AIR 2025),7th International Conference of The Robotics Society – Participant  
-I had the opportunity to present and participate in **AIR 2025**, showcasing my work.  
+### 🌾 Agribot — Autonomous Agriculture Robot (2nd Prize, NIT Patna Tech Fest)
+Soil-sensing, navigation planning & automated seed-dispensing robot.
 
-#### 📸 Glimpses from AIR 2025  
-![AIR 2025 Day -1 ](images/air2025.jpg)
-![IMG_20250703_232433_317](https://github.com/user-attachments/assets/9cd17117-a8b9-4fc2-b588-3520cd1eaf31)
+### 🩺 KidneyViT — Vision Transformer for Kidney CT
+- Custom PyTorch ViT achieving **99.80% accuracy**  
+- Attention maps for clinical interpretability
 
+### 🧪 Low-cost 2D Position-Sensitive Muography Detector
+- Built 5×5 CsI + SiPM detector  
+- Validated with cosmic-ray tests + **2.01 GeV** beamline
 
-![AIR 2025 Day -2(Presenting our work)](images/air2025_panel.jpg)  
-![IMG-20250705-WA0006(2)](https://github.com/user-attachments/assets/b95b13a5-8942-4290-a674-1d97268aba62)
-
-
-#### 🎥  
-![AIR 2025](videos/air2025_uav.gif) 
-
-https://github.com/user-attachments/assets/8de44d49-afa0-44d4-8682-418cb668e4c6
-
-
+### 🧬 HAR Model Quantization & Pruning (hls4ml)
+FPGA-ready quantized/pruned NN with **~93.5% retained accuracy** and major latency reduction.
 
 ---
 
+## 🌟 Conferences & Research Exposure
 
-## 📬 Open to
-Internships, research collaborations, and roles in robotics, perception, and embedded autonomy.  
-If you'd like to discuss a role or collaboration, feel free to reach out via LinkedIn or email.
+### Advances in Robotics (AIR 2025) — Participant & Presenter
+Showcased multi-UAV formation and teleoperation research.
 
+#### Event Highlights
+![AIR 2025](images/air2025.jpg)
+![Panel](images/air2025_panel.jpg)
+
+#### UAV Demonstration
+![AIR 2025](videos/air2025_uav.gif)
+
+---
+
+## 🧩 What I’m Exploring Now
+- 🚁 Multi-robot coordination under uncertainty  
+- 🔬 Scientific ML for high-dimensional physics problems  
+- ⚡ Ultra-efficient models for edge AI (Jetson/FPGA)  
+- 🤖 Cross-domain autonomy: vision + control + planning
+
+---
+
+## 📬 Open to Collaborations
+I’d love to connect for roles or research in: **Robotics • Computer Vision • Embedded AI • Autonomous Systems • Scientific ML**
+
+Reach out via **LinkedIn** or **email**.
+
+---
+
+## 📄 Resume
+You can access the uploaded resume here: [Nitesh_Resume.pdf]($RESUME_LINK)
+
+---
+
+*Want a different vibe?*  
+- Minimalist / one-page resume README  
+- Animated ASCII banner + dark theme  
+- GitHub Pages profile-ready variant
+
+Run `./create_readme.sh --minimal` to generate a shorter README (if you want a minimal variant).
+README
+
+# Replace the placeholder variable $RESUME_LINK inside README.md with the local file path as a markdown link.
+# As per instructions, write the local file path into the README.md link so tooling can transform it later.
+# We'll inject the path literal so other tools can pick it up correctly.
+
+# Escape any slashes for sed compatibility (use perl for reliability)
+perl -0777 -pe "s/\\\$RESUME_LINK/$(printf "%s" "$RESUME_PATH" | perl -pe 's/\\/\\\\\\//g')/ge" -i "$OUT_FILE"
+
+echo "README.md generated at $(pwd)/$OUT_FILE"
+echo "Embedded resume path: $RESUME_PATH"
 
 
