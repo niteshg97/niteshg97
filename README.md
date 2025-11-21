@@ -1,153 +1,134 @@
-# 👋 Hi, I'm **Nitesh Kumar**
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  नमस्ते (Namaste) 🙏🏻, I'm <b>Nitesh Kumar</b>!
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45">
+</h2>
 
-### 🧠 Machine Learning Researcher | Deep Learning Engineer | Edge-AI Optimization | Scientific ML | Robotics (Perception)
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
 
-Welcome to my GitHub profile!  
-I’m **Nitesh Kumar**, a **Machine Learning & Deep Learning Researcher** specializing in  
-**model optimization, transformers, embedded AI, and scientific ML**.  
-My mission is to build **deployment-ready, hardware-aware AI systems** that run efficiently on  
-**Jetson GPUs, FPGAs, and real-time robotic platforms**.
-
----
-
-## 🚀 About Me  
-
-- 🧠 **Core Expertise:** Deep Learning, Model Optimization, Computer Vision, Edge AI  
-- 🔭 **Currently Researching:** Quantization, Pruning, HLS deployment (FPGA), Vision Transformers  
-- ⚡ **Passionate About:** Scientific ML, medical imaging, high-dimensional GPU pipelines  
-- 🤝 **Open To:** ML research roles, deep learning internships, and scientific ML collaborations  
+<p>
+  <em>
+    Machine Learning Researcher & Deep Learning Engineer • Edge-AI Optimization • Scientific ML  
+    <br>
+    Exploring model compression, transformers, embedded AI, and scientific computing.
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
+  </em>
+</p>
 
 ---
 
-## 🎓 Education  
+### 🌐 Connect With Me
 
-- 🎓 **Dual Degree (B.Tech + M.Tech) — Electrical Engineering**  
-  *National Institute of Technology (NIT) Patna* (2023–2028)  
-  *CGPA: 7.6 / 10*  
+[![Linkedin: nitesh](https://img.shields.io/badge/-Nitesh_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-kumar-68a698275/)](https://www.linkedin.com/in/nitesh-kumar-68a698275/)
+![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=Follow&style=social)
+[![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
+
 
 ---
 
-## ⚙️ My Tech Stack  
+## ✨ About Me
+
+- 🧠 **Machine Learning researcher** focusing on *efficient, hardware-aware AI models*  
+- 🔬 Working on **quantization, pruning, hls4ml (FPGA)**, CUDA/TensorRT optimization  
+- 🖼️ Exploring **Vision Transformers**, medical imaging & scientific ML  
+- ⚛️ Applying ML to high-energy physics, muography, and large GPU datasets  
+- 🤖 Robotics is my *application layer*: YOLOv8 perception, SLAM/EKF, UAV autonomy  
+- 💬 Love discussing ML architecture, optimization, and AI research ideas  
+
+---
+
+## ⚙️ My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,git,linux,raspberrypi,arduino,docker,aws,ubuntu,mongodb,sqlite,matlab,java,js,ts,latex,c&perline=15">
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,git,linux,raspberrypi,arduino,docker,aws,ubuntu,c,java,matlab&perline=12" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=niteshg97&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=niteshg97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niteshg97&theme=tokyonight" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshg97&theme=tokyonight" width="400" />
-</div>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niteshg97&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-## 🔬 **Current Research Areas**  
+## 🚀 Current Research Areas
 
 ### 🧠 **Hardware-Aware Deep Learning**
-- Quantization (8–16 bit), structured pruning (up to 80%)  
-- FPGA deployment using **hls4ml**  
-- TensorRT & CUDA optimization for Jetson devices  
+- Quantization   
+- Structured prunin
+- FPGA deployment with **hls4ml**  
+- TensorRT acceleration on Jetson NX  
 
-### 🖼️ **Vision Transformers & Medical Imaging**
-- Custom-built ViT architecture (99.80% accuracy)  
-- Attention-map visualization (XAI)  
+### 🖼️ **Transformers & Medical Imaging**
+ 
 
-### ⚛️ **Scientific Machine Learning**
-- Particle classifier for high-energy physics  
-- Higgs Boson classification with GPU-accelerated RAPIDS  
-- Muography detector event reconstruction  
+### ⚛️ **Scientific ML & High-Dimensional Physics Data**
+- Higgs boson classification  
+- Particle classifiers (β, momentum feature importance)  
+- GPU-accelerated RAPIDS pipelines  
 
-### 🤖 **Applied ML in Robotics**
-- YOLOv8 perception modules  
+### 🤖 **ML for Robotics Perception**
+- YOLOv8 detection modules  
 - SLAM/EKF sensor fusion  
-- Multi-UAV coordinated movement (AIR 2025)  
+- UAV perception for ISRO IRoC-U challenges  
 
 ---
 
-## 🌩️ Featured ML Projects  
+## 🧩 Highlighted Projects  
 
-### 🧠 **KidneyViT — Vision Transformer for CT Scans**  
-- Custom ViT from scratch (PyTorch)  
+### 🧠 **KidneyViT — Vision Transformer for CT Scans**
+- Custom ViT architecture in PyTorch  
 - 99.80% validation accuracy  
-- Integrated XAI heatmaps  
-🔗 Repo: *on GitHub*
+- XAI heatmaps for clinical interpretation  
 
 ---
 
-### ⚡ **HAR Model Quantization & Pruning (hls4ml)**  
-- Baseline accuracy: 95.18%  
-- 16-bit fixed-point quantization  
-- Structured pruning (80%)  
-- FPGA-ready HLS export  
-🔗 Repo: *on GitHub*
+### ⚡ **HAR Model Quantization & Pruning (hls4ml)**
+- Baseline = 95.18%  
+- 16-bit quantization  
+- 80% pruning (93.5% retained accuracy)  
+- Exported to FPGA-ready HLS  
 
 ---
 
-### ⚛️ **GPU-Based Higgs Boson Classification**  
-- Processed 11M samples with RAPIDS  
-- XGBoost (gpu_hist): 74% accuracy, AUC 0.82  
-- PCA (18 components) for dimensionality reduction  
-🔗 Repo: *on GitHub*
+### ⚛️ **GPU-Based Higgs Boson Classification**
+- 11M-row dataset processed with RAPIDS  
+- XGBoost (gpu_hist) → AUC 0.82  
+- PCA (18 components)  
 
 ---
 
-### 🧪 **Multi-Class Particle Classifier (Physics ML)**  
-- 96.85% accuracy on particle dataset  
-- Rare-class recall boosted using NN  
-- Feature importance aligned with physics (β, p)  
-🔗 Repo: *on GitHub*
+### 🧪 **Multi-Class Particle Classifier**
+- 96.85% accuracy  
+- Class-imbalance handling + physics-aligned feature importance  
 
 ---
 
-### 🛰️ **ANAV — Autonomous Navigation UAV (ISRO IRoC-U 2025 Qualified)**  
-- ROS2 + PX4 based autonomy stack  
+### 🛰️ **ANAV — Autonomous Navigation UAV (ISRO IRoC-U Qualified)**
+- ROS2 + PX4 autonomy  
 - LiDAR + IMU EKF fusion  
-- YOLOv8 terrain segmentation & safe landing detection  
-🔗 Repo: *on GitHub*
+- YOLOv8 terrain understanding  
 
 ---
 
-## 📬 Connect With Me  
+## 💻 A Little More About Me
 
-📧 **Email:** [niteshk.ug23.ee@nitp.ac.in](mailto:niteshk.ug23.ee@nitp.ac.in)  
-💼 **LinkedIn:** [linkedin.com/in/nitesh-kumar-68a698275](https://linkedin.com/in/nitesh-kumar-68a698275)  
-💬 Always open to ML research collaborations or deep learning roles!  
+```javascript
+const nitesh = {
+  pronouns: "He" | "Him",
+  code: ["Python", "C++", "MATLAB", "Java"],
+  researchInterests: [
+    "Deep Learning",
+    "Model Compression",
+    "Vision Transformers",
+    "Hardware-Aware AI",
+    "Scientific ML",
+    "Embedded Intelligence"
+  ],
+  tools: {
+    frameworks: ["PyTorch", "TensorFlow", "scikit-learn", "hls4ml"],
+    edgeAI: ["TensorRT", "CUDA", "Jetson Xavier NX"],
+    robotics: ["ROS2", "PX4", "YOLOv8", "OpenCV"],
+    dataScience: ["RAPIDS", "Pandas", "NumPy", "Matplotlib"]
+  },
+  currentFocus: "Efficient ML models for constrained hardware",
+  funFact: "I think in tensors more than in sentences 😄"
+};
 
----
-
-## 🧠 **Core Domains**  
-- **Deep Learning:** CNNs, R-CNN, ViT, Transformers  
-- **Model Optimization:** Quantization, Pruning, HLS4ML  
-- **Scientific ML:** Physics datasets, medical imaging  
-- **Embedded AI:** Jetson, FPGA, TensorRT, CUDA  
-- **Computer Vision:** YOLOv8, OpenCV  
-- **Robotics (Secondary):** UAV autonomy, SLAM, EKF  
-
----
-
-<!-- SEO Section -->
-## 🔍 SEO & Keyword Tags  
-`Nitesh Kumar`, `Machine Learning Researcher`, `Deep Learning Engineer`,
-`Edge AI`, `Scientific ML`, `Vision Transformer`, `Medical Imaging AI`,
-`NIT Patna`, `FPGA Machine Learning`, `CUDA`, `hls4ml`, `Jetson`, `YOLOv8`
-
----
-
-⭐ **Thanks for visiting my profile!**  
-If my work aligns with yours, feel free to **⭐ star my repositories** or connect!
 
