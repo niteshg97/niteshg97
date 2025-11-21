@@ -1,167 +1,153 @@
-#!/usr/bin/env bash
-# create_readme.sh
-# Single-file bash script to generate a polished README.md for Nitesh Kumar
-# It embeds a local path to the uploaded resume at /mnt/data/Nitesh_Resume.pdf
-#
-# Usage:
-#   ./create_readme.sh
-# This will create (or overwrite) README.md in the current directory.
+# 👋 Hi, I'm **Nitesh Kumar**
 
-set -euo pipefail
+### 🧠 Machine Learning Researcher | Deep Learning Engineer | Edge-AI Optimization | Scientific ML | Robotics (Perception)
 
-OUT_FILE="README.md"
-RESUME_PATH="/mnt/data/Nitesh_Resume.pdf"
-
-cat > "$OUT_FILE" <<'README'
-# 👋 Hey there — I’m **Nitesh Kumar**
-### Robotics Researcher • ML & Edge-AI Engineer • Autonomous Systems Developer
-
-[![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=follow&style=social)](https://github.com/niteshg97)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitesh-kumar-68a698275)  
-[![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=for-the-badge&logo=gmail)](mailto:niteshk.ug23.ee@nitp.ac.in)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/niteshkumarnitp/)
+Welcome to my GitHub profile!  
+I’m **Nitesh Kumar**, a **Machine Learning & Deep Learning Researcher** specializing in  
+**model optimization, transformers, embedded AI, and scientific ML**.  
+My mission is to build **deployment-ready, hardware-aware AI systems** that run efficiently on  
+**Jetson GPUs, FPGAs, and real-time robotic platforms**.
 
 ---
 
-## 🚀 About Me
-I’m an **Electrical Engineering (Dual Degree)** student at **NIT Patna**, building intelligent machines that **see, decide, and act**.
+## 🚀 About Me  
 
-My work lives at the intersection of:
-
-- **Robotics & Perception** — UAV autonomy, SLAM/EKF, multi-robot coordination  
-- **Deep Learning & Vision** — Transformers, YOLO, medical imaging, scientific ML  
-- **Embedded AI** — Jetson, FPGA/HLS (hls4ml), real-time optimized inference  
-- **Edge Autonomy** — hardware-aware models, quantization & pruning, GPU pipelines  
-
-I enjoy converting research ideas into **field-ready robotic systems** and **deployment-grade ML pipelines**, often under tight latency, power, and bandwidth constraints.
+- 🧠 **Core Expertise:** Deep Learning, Model Optimization, Computer Vision, Edge AI  
+- 🔭 **Currently Researching:** Quantization, Pruning, HLS deployment (FPGA), Vision Transformers  
+- ⚡ **Passionate About:** Scientific ML, medical imaging, high-dimensional GPU pipelines  
+- 🤝 **Open To:** ML research roles, deep learning internships, and scientific ML collaborations  
 
 ---
 
-## 🔎 Professional Snapshot
-> *“I build autonomy stacks that run not just in simulation, but in the real world.”*
+## 🎓 Education  
 
-- **2+ years** working across robotics, AI, and embedded systems  
-- Experience with **PX4, ROS 2, GPU pipelines, SLAM, YOLOv8**, and real-time sensor fusion  
-- Designed **quantized + pruned neural networks** for **FPGA** using **hls4ml**  
-- Academic/research exposure to **medical imaging**, **particle physics ML**, and **beamline analysis**  
-- Achieved **top 3% JEE rank**, 250+ LeetCode solves, and multiple research/tech awards  
+- 🎓 **Dual Degree (B.Tech + M.Tech) — Electrical Engineering**  
+  *National Institute of Technology (NIT) Patna* (2023–2028)  
+  *CGPA: 7.6 / 10*  
 
 ---
 
-## 🛠 Technical Ecosystem
+## ⚙️ My Tech Stack  
 
-**Languages**  
-Python · C++ · MATLAB · Java · C
-
-**Robotics & Perception**  
-ROS 2 (Humble) · PX4 · MAVROS · Gazebo · OpenCV · YOLOv8 · SLAM/EKF
-
-**Machine Learning & DL**  
-PyTorch · TensorFlow · scikit-learn · hls4ml · RAPIDS · CUDA · Quantization & Pruning
-
-**Embedded & Hardware**  
-NVIDIA Jetson (Xavier NX) · Raspberry Pi · Microcontrollers · FPGA (HLS)
-
-**Tools & Frameworks**  
-Docker · Git · HDF5 · TensorBoard · Node.js · WebXR
-
-**Domains**  
-Edge AI · Robotics · Medical Imaging · ML in Physics · Scientific Computing
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,git,linux,raspberrypi,arduino,docker,aws,ubuntu,mongodb,sqlite,matlab,java,js,ts,latex,c&perline=15">
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Analytics  
 
-### 🔹 Technology Innovation Hub (TiH), IIT Jodhpur — *Summer Intern (May–Jul 2025)*
-- Engineered **leader–follower UAV formation** using ArUco markers; improved coordination accuracy by *~30%*.  
-- Built **WebXR teleoperation** for Kinova Gen3 using WebRTC, Node.js & ARCore.  
-- Deployed YOLOv8 + PX4 autonomy stack on **NVIDIA Jetson** with Dockerized reproducibility.  
-- Presented at **AIR 2025**, 7th International Robotics Society Conference.
-
-### 🔹 Machine Learning Researcher — NIT Patna (Jul 2025 – Present)
-- Researching **quantized + pruned neural networks** for FPGA/Jetson using **hls4ml**.  
-- Developed **Faster-RCNN, ViT, and CNN pipelines** for medical imaging & scientific datasets.  
-- Integrated GPU-accelerated workflows for high-dimensional physics data.
-
-### 🔹 Student Coordinator — Tinkering Lab, NIT Patna
-- Leading ML + Robotics teams on UAV autonomy, CV, and embedded AI.  
-- Conduct workshops on deep learning, ROS 2, sensor fusion & control systems.
+<div align="center">
+  <img src="https://git-hub-streak-stats.vercel.app/?user=niteshg97&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niteshg97&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niteshg97&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niteshg97&theme=tokyonight" width="400" />
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## 🏅 GitHub Trophies  
 
-### 🛩 Autonomous Navigation Aerial Vehicle (ANAV) — ISRO IRoC-U 2025 (Qualified)
-- Full **ROS2 + PX4** autonomy stack on Jetson Xavier NX  
-- EKF for **LiDAR + IMU** fusion  
-- Real-time **terrain understanding** via YOLOv8 + IMX290 camera
-
-### 🌾 Agribot — Autonomous Agriculture Robot (2nd Prize, NIT Patna Tech Fest)
-Soil-sensing, navigation planning & automated seed-dispensing robot.
-
-### 🩺 KidneyViT — Vision Transformer for Kidney CT
-- Custom PyTorch ViT achieving **99.80% accuracy**  
-- Attention maps for clinical interpretability
-
-### 🧪 Low-cost 2D Position-Sensitive Muography Detector
-- Built 5×5 CsI + SiPM detector  
-- Validated with cosmic-ray tests + **2.01 GeV** beamline
-
-### 🧬 HAR Model Quantization & Pruning (hls4ml)
-FPGA-ready quantized/pruned NN with **~93.5% retained accuracy** and major latency reduction.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niteshg97&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" />
+</p>
 
 ---
 
-## 🌟 Conferences & Research Exposure
+## 🔬 **Current Research Areas**  
 
-### Advances in Robotics (AIR 2025) — Participant & Presenter
-Showcased multi-UAV formation and teleoperation research.
+### 🧠 **Hardware-Aware Deep Learning**
+- Quantization (8–16 bit), structured pruning (up to 80%)  
+- FPGA deployment using **hls4ml**  
+- TensorRT & CUDA optimization for Jetson devices  
 
-#### Event Highlights
-![AIR 2025](images/air2025.jpg)
-![Panel](images/air2025_panel.jpg)
+### 🖼️ **Vision Transformers & Medical Imaging**
+- Custom-built ViT architecture (99.80% accuracy)  
+- Attention-map visualization (XAI)  
 
-#### UAV Demonstration
-![AIR 2025](videos/air2025_uav.gif)
+### ⚛️ **Scientific Machine Learning**
+- Particle classifier for high-energy physics  
+- Higgs Boson classification with GPU-accelerated RAPIDS  
+- Muography detector event reconstruction  
 
----
-
-## 🧩 What I’m Exploring Now
-- 🚁 Multi-robot coordination under uncertainty  
-- 🔬 Scientific ML for high-dimensional physics problems  
-- ⚡ Ultra-efficient models for edge AI (Jetson/FPGA)  
-- 🤖 Cross-domain autonomy: vision + control + planning
-
----
-
-## 📬 Open to Collaborations
-I’d love to connect for roles or research in: **Robotics • Computer Vision • Embedded AI • Autonomous Systems • Scientific ML**
-
-Reach out via **LinkedIn** or **email**.
+### 🤖 **Applied ML in Robotics**
+- YOLOv8 perception modules  
+- SLAM/EKF sensor fusion  
+- Multi-UAV coordinated movement (AIR 2025)  
 
 ---
 
-## 📄 Resume
-You can access the uploaded resume here: [Nitesh_Resume.pdf]($RESUME_LINK)
+## 🌩️ Featured ML Projects  
+
+### 🧠 **KidneyViT — Vision Transformer for CT Scans**  
+- Custom ViT from scratch (PyTorch)  
+- 99.80% validation accuracy  
+- Integrated XAI heatmaps  
+🔗 Repo: *on GitHub*
 
 ---
 
-*Want a different vibe?*  
-- Minimalist / one-page resume README  
-- Animated ASCII banner + dark theme  
-- GitHub Pages profile-ready variant
+### ⚡ **HAR Model Quantization & Pruning (hls4ml)**  
+- Baseline accuracy: 95.18%  
+- 16-bit fixed-point quantization  
+- Structured pruning (80%)  
+- FPGA-ready HLS export  
+🔗 Repo: *on GitHub*
 
-Run `./create_readme.sh --minimal` to generate a shorter README (if you want a minimal variant).
-README
+---
 
-# Replace the placeholder variable $RESUME_LINK inside README.md with the local file path as a markdown link.
-# As per instructions, write the local file path into the README.md link so tooling can transform it later.
-# We'll inject the path literal so other tools can pick it up correctly.
+### ⚛️ **GPU-Based Higgs Boson Classification**  
+- Processed 11M samples with RAPIDS  
+- XGBoost (gpu_hist): 74% accuracy, AUC 0.82  
+- PCA (18 components) for dimensionality reduction  
+🔗 Repo: *on GitHub*
 
-# Escape any slashes for sed compatibility (use perl for reliability)
-perl -0777 -pe "s/\\\$RESUME_LINK/$(printf "%s" "$RESUME_PATH" | perl -pe 's/\\/\\\\\\//g')/ge" -i "$OUT_FILE"
+---
 
-echo "README.md generated at $(pwd)/$OUT_FILE"
-echo "Embedded resume path: $RESUME_PATH"
+### 🧪 **Multi-Class Particle Classifier (Physics ML)**  
+- 96.85% accuracy on particle dataset  
+- Rare-class recall boosted using NN  
+- Feature importance aligned with physics (β, p)  
+🔗 Repo: *on GitHub*
 
+---
+
+### 🛰️ **ANAV — Autonomous Navigation UAV (ISRO IRoC-U 2025 Qualified)**  
+- ROS2 + PX4 based autonomy stack  
+- LiDAR + IMU EKF fusion  
+- YOLOv8 terrain segmentation & safe landing detection  
+🔗 Repo: *on GitHub*
+
+---
+
+## 📬 Connect With Me  
+
+📧 **Email:** [niteshk.ug23.ee@nitp.ac.in](mailto:niteshk.ug23.ee@nitp.ac.in)  
+💼 **LinkedIn:** [linkedin.com/in/nitesh-kumar-68a698275](https://linkedin.com/in/nitesh-kumar-68a698275)  
+💬 Always open to ML research collaborations or deep learning roles!  
+
+---
+
+## 🧠 **Core Domains**  
+- **Deep Learning:** CNNs, R-CNN, ViT, Transformers  
+- **Model Optimization:** Quantization, Pruning, HLS4ML  
+- **Scientific ML:** Physics datasets, medical imaging  
+- **Embedded AI:** Jetson, FPGA, TensorRT, CUDA  
+- **Computer Vision:** YOLOv8, OpenCV  
+- **Robotics (Secondary):** UAV autonomy, SLAM, EKF  
+
+---
+
+<!-- SEO Section -->
+## 🔍 SEO & Keyword Tags  
+`Nitesh Kumar`, `Machine Learning Researcher`, `Deep Learning Engineer`,
+`Edge AI`, `Scientific ML`, `Vision Transformer`, `Medical Imaging AI`,
+`NIT Patna`, `FPGA Machine Learning`, `CUDA`, `hls4ml`, `Jetson`, `YOLOv8`
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+If my work aligns with yours, feel free to **⭐ star my repositories** or connect!
 
