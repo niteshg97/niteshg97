@@ -51,7 +51,7 @@
 
 ### 🧠 **Hardware-Aware Deep Learning**
 - Quantization   
-- Structured prunin
+- Structured pruning
 - FPGA deployment with **hls4ml**  
 - TensorRT acceleration on Jetson NX  
 
