@@ -26,87 +26,6 @@
 
 ---
 
-## ✨ About Me
-
-- 🧠 **Machine Learning researcher** focusing on *efficient, hardware-aware AI models*  
-- 🔬 Working on **quantization, pruning, hls4ml (FPGA)**, CUDA/TensorRT optimization  
-- 🖼️ Exploring **Vision Transformers**, medical imaging & scientific ML  
-- ⚛️ Applying ML to high-energy physics, muography, and large GPU datasets  
-- 🤖 Robotics is my *application layer*: YOLOv8 perception, SLAM/EKF, UAV autonomy  
-- 💬 Love discussing ML architecture, optimization, and AI research ideas  
-
----
-
-## ⚙️ My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,git,linux,raspberrypi,arduino,docker,aws,ubuntu,c,java,matlab&perline=12" />
-  </a>
-</p>
-
----
-
-## 🚀 Current Research Areas
-
-### 🧠 **Hardware-Aware Deep Learning**
-- Quantization   
-- Structured pruning
-- FPGA deployment with **hls4ml**  
-- TensorRT acceleration on Jetson NX  
-
-### 🖼️ **Transformers & Medical Imaging**
- 
-
-### ⚛️ **Scientific ML & High-Dimensional Physics Data**
-- Higgs boson classification  
-- Particle classifiers (β, momentum feature importance)  
-- GPU-accelerated RAPIDS pipelines  
-
-### 🤖 **ML for Robotics Perception**
-- YOLOv8 detection modules  
-- SLAM/EKF sensor fusion  
-- UAV perception for ISRO IRoC-U challenges  
-
----
-
-## 🧩 Highlighted Projects  
-
-### 🧠 **KidneyViT — Vision Transformer for CT Scans**
-- Custom ViT architecture in PyTorch  
-- 99.80% validation accuracy  
-- XAI heatmaps for clinical interpretation  
-
----
-
-### ⚡ **HAR Model Quantization & Pruning (hls4ml)**
-- Baseline = 95.18%  
-- 16-bit quantization  
-- 80% pruning (93.5% retained accuracy)  
-- Exported to FPGA-ready HLS  
-
----
-
-### ⚛️ **GPU-Based Higgs Boson Classification**
-- 11M-row dataset processed with RAPIDS  
-- XGBoost (gpu_hist) → AUC 0.82  
-- PCA (18 components)  
-
----
-
-### 🧪 **Multi-Class Particle Classifier**
-- 96.85% accuracy  
-- Class-imbalance handling + physics-aligned feature importance  
-
----
-
-### 🛰️ **ANAV — Autonomous Navigation UAV (ISRO IRoC-U Qualified)**
-- ROS2 + PX4 autonomy  
-- LiDAR + IMU EKF fusion  
-- YOLOv8 terrain understanding  
-
----
-
 ## 💻 A Little More About Me
 
 ```javascript
@@ -129,6 +48,19 @@ const nitesh = {
   },
   currentFocus: "Efficient ML models for constrained hardware",
   funFact: "I think in tensors more than in sentences 😄"
-};
+}; 
+   ```
+---
+
+##  My Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,java,js,nodejs,pytorch,tensorflow,opencv,ros,linux,ubuntu,bash,docker,git,github,latex,arduino,raspberrypi,workers,napi,postman&perline=12" />
+  </a>
+</p>
+
+---
+
 
 
