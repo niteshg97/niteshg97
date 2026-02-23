@@ -30,26 +30,36 @@
 ## 💻 A Little More About Me   
 
 ```javascript
-const nitesh = {
-  pronouns: "He" | "Him",
-  code: ["Python", "C++", "MATLAB", "Java"],
-  researchInterests: [
-    "Deep Learning",
-    "Model Compression",
-    "Vision Transformers",
-    "Hardware-Aware AI",
-    "Scientific ML",
-    "Embedded Intelligence"
-  ],
-  tools: {
-    frameworks: ["PyTorch", "TensorFlow", "scikit-learn", "hls4ml"],
-    edgeAI: ["TensorRT", "CUDA", "Jetson Xavier NX"],
-    robotics: ["ROS2", "PX4", "YOLOv8", "OpenCV"],
-    dataScience: ["RAPIDS", "Pandas", "NumPy", "Matplotlib"]
-  },
-  currentFocus: "Efficient ML models for constrained hardware",
-  funFact: "I think in tensors more than in sentences 😄"
-}; 
+struct Nitesh {
+    string pronouns = "He/Him";
+
+    vector<string> languages = {
+        "Python", "C++", "MATLAB", "Java"
+    };
+
+    vector<string> researchInterests = {
+        "Deep Learning",
+        "Embedded Intelligence"
+    };
+
+    map<string, vector<string>> tools = {
+        {"Frameworks", {"PyTorch", "TensorFlow", "scikit-learn", "hls4ml"}},
+        {"Edge AI", {"TensorRT", "CUDA", "Jetson Xavier NX"}},
+        {"Robotics", {"ROS2", "PX4", "YOLOv8", "OpenCV"}},
+        {"Data Science", {"RAPIDS", "Pandas", "NumPy", "Matplotlib"}}
+    };
+
+    string currentFocus =
+        "Efficient ML models for constrained hardware";
+
+    string funFact =
+        "I think in tensors more than in sentences 😄";
+};
+
+int main() {
+    Nitesh nitesh;
+    return 0;
+}
    ```
 ---
 
