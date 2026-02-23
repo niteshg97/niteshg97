@@ -4,16 +4,17 @@
  
 </h2>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 <p>
   <em>
-    Machine Learning Researcher & Deep Learning Engineer • Edge-AI Optimization • Scientific ML  
-    <br>
-    Exploring model compression, transformers, embedded AI, and scientific computing.
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">
+    Machine Learning Researcher & Deep Learning Engineer  • Edge AI Optimization  • Scientific ML
+    
+  Exploring Low latency Deep Learning with FPGA & GPU-accelerated ML -- evaluating accuracy, latency, and hardware resource trade-offs for real world deployment.
+    
   </em>
 </p>
+
 
 ---
 
@@ -26,7 +27,7 @@
 
 ---
 
-## 💻 A Little More About Me
+## 💻 A Little More About Me   
 
 ```javascript
 const nitesh = {
@@ -60,7 +61,12 @@ const nitesh = {
   </a>
 </p>
 
----
+<p>
+<img align="right" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="210">
+<br><br>
+</p>
+
+
 
 
 
