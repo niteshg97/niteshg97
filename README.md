@@ -21,7 +21,6 @@
 ### 🌐 Connect With Me
 
 [![Linkedin: nitesh](https://img.shields.io/badge/-Nitesh_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-kumar-68a698275/)](https://www.linkedin.com/in/nitesh-kumar-68a698275/)
-![GitHub followers](https://img.shields.io/github/followers/niteshg97?label=Follow&style=social)
 [![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
 
 
