@@ -24,44 +24,6 @@
 [![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
 
 
----
-
-## 💻 A Little More About Me   
-
-```javascript
-struct Nitesh {
-    string pronouns = "He/Him";
-
-    vector<string> languages = {
-        "Python", "C++", "MATLAB", "Java"
-    };
-
-    vector<string> researchInterests = {
-        "Deep Learning",
-        "Embedded Intelligence"
-    };
-
-    map<string, vector<string>> tools = {
-        {"Frameworks", {"PyTorch", "TensorFlow", "scikit-learn", "hls4ml"}},
-        {"Edge AI", {"TensorRT", "CUDA", "Jetson Xavier NX"}},
-        {"Robotics", {"ROS2", "PX4", "YOLOv8", "OpenCV"}},
-        {"Data Science", {"RAPIDS", "Pandas", "NumPy", "Matplotlib"}}
-    };
-
-    string currentFocus =
-        "Efficient ML models for constrained hardware";
-
-    string funFact =
-        "I think in tensors more than in sentences 😄";
-};
-
-int main() {
-    Nitesh nitesh;
-    return 0;
-}
-   ```
----
-
 ##  My Tech Stack
 
 <p align="center">
