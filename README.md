@@ -8,24 +8,15 @@
 
 <p>
   <em>
-    Machine Learning Researcher & Deep Learning Engineer  • Edge AI Optimization  • Scientific ML
-    
-  Exploring Low latency Deep Learning with FPGA & GPU-accelerated ML -- evaluating accuracy, latency, and hardware resource trade-offs for real world deployment.
-    
+    Machine Learning & Software Engineer • AI/ML • Scientific Computing
+
+    Building reliable and efficient software and machine learning systems, with interests in model development, optimization, scalable computing, and real-world deployment.
   </em>
 </p>
 
-
 ---
 
-### 🌐 Connect With Me
-
-[![Linkedin: nitesh](https://img.shields.io/badge/-Nitesh_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-kumar-68a698275/)](https://www.linkedin.com/in/nitesh-kumar-68a698275/)
-[![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-red?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
-
-
 ##  My Tech Stack
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,java,pytorch,tensorflow,opencv,ros,linux,ubuntu,bash,docker,git,github,latex,arduino,raspberrypi,workers,postman&perline=12" />
@@ -37,6 +28,15 @@
 <br><br>
 </p>
 
+---
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-kumar-68a698275/)
+[![GitHub](https://img.shields.io/badge/GitHub-niteshg97-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niteshg97)
+[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/niteshkumarnitp/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-niteshg97.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://niteshg97.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
+[![Zenodo](https://img.shields.io/badge/Research-Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/records/22910536)
 
 
 
