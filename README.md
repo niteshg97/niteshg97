@@ -33,7 +33,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitesh_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitesh-kumar-68a698275/)
 [![GitHub](https://img.shields.io/badge/GitHub-niteshg97-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/niteshg97)
-[![LeetCode](https://img.shields.io/badge/LeetCode-niteshkumarnitp-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/niteshkumarnitp/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-niteshg97.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://niteshg97.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-niteshk.ug23.ee%40nitp.ac.in-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:niteshk.ug23.ee@nitp.ac.in)
 [![Zenodo](https://img.shields.io/badge/Research-Zenodo-1682D4?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/records/22910536)
